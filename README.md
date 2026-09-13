@@ -157,6 +157,7 @@
 - [Git 内部机制深度解析](docs/X11-git-internals-deep-dive.md)
 - [Git 性能优化完全指南](docs/X12-git-performance-optimization.md)
 - [GitHub Copilot Workspace 与 AI Agent](docs/X14-github-copilot-workspace-agents.md)
+- [GitHub 开源项目管理完全指南](docs/Y1-open-source-project-management.md)
 
 ### 第十一部分：实战练习
 - [练习 1：创建你的第一个仓库](exercises/exercise-1-create-repo.md)
@@ -189,6 +190,11 @@
 - [练习 28：配置 GitHub 安全扫描](exercises/exercise-28-security-scanning.md)
 - [练习 29：Git LFS 大文件管理实战](exercises/exercise-29-git-lfs-workflow.md)
 - [练习 30：Terraform + GitHub Actions 基础设施自动化](exercises/exercise-30-terraform-github.md)
+- [练习 31：GitHub Copilot 高级使用](exercises/exercise-31-github-copilot-advanced.md)
+- [练习 32：GitHub Actions 矩阵策略](exercises/exercise-32-github-actions-matrix.md)
+- [练习 33：GitHub API 集成](exercises/exercise-33-github-api-integration.md)
+- [练习 34：GitHub 安全最佳实践](exercises/exercise-34-github-security-best-practices.md)
+- [练习 35：GitHub 团队协作](exercises/exercise-35-github-team-collaboration.md)
 
 ### 附录
 - [常用命令速查表](docs/A-common-commands.md)
@@ -201,6 +207,7 @@
 - [常见错误排查指南](docs/M-troubleshooting.md)
 - [Issue/PR 模板指南](docs/W3-issue-pr-templates.md)
 - [Git Submodules 使用指南](docs/W4-git-submodules.md)
+- [GitHub 速查表](docs/Z-github-cheat-sheet.md)
 
 ---
 
@@ -208,7 +215,7 @@
 
 | 📚 教程 | 🧪 练习 | 📝 中文字数 | 📁 总文件 |
 |:-------:|:-------:|:-----------:|:---------:|
-| 108+ 篇 | 30 个 | 30 万+ | 138+ 个 |
+| 115+ 篇 | 35 个 | 31 万+ | 145+ 个 |
 
 ---
 
